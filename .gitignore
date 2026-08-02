@@ -1,0 +1,13 @@
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables (Security)
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Local Database / Subscription Data
+subscriptions.json
