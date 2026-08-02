@@ -51,7 +51,7 @@ Before you begin, ensure you have the following accounts and tools configured:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/ai-flight-agent.git
+git clone https://github.com/nikhillpaul9/autonomous-whatsapp-airfare-tracker-agent.git
 cd ai-flight-agent
 
 ```
